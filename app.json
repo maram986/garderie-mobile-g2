@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "garderie-mobile-g2",
-    "slug": "garderie-mobile-g2",
+    "name": "Ma Garderie",
+    "slug": "Ma Garderie",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
